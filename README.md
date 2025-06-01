@@ -8,10 +8,8 @@ It creates n automation to:
 - held and released (the initial action and delay after each repeat-cycle can be set for every button individually)
 
 Switch Layout:
-  .-----.-----.
-  |  1  |  3  |
-  |-----|-----|
-  |  2  |  4  |
-  '-----'-----'
+|  1  |  3  |
+|-----|-----|
+|  2  |  4  |
 
 
