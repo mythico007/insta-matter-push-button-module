@@ -15,7 +15,8 @@ blueprint:
     \n\n
     ### Support\n\n
     Version 1.0\n
-    Release notes: initial version\n"
+    Release notes: initial version\n\n
+    Source: insta-matter-push-button-module.yaml"
   domain: automation
   author: mythico
   homeassistant:
