@@ -1,4 +1,4 @@
-# insta-matter-switch-tap-sequences
+# insta-matter-push-button-module
 Blueprint for Home Assistant to automate the INSTA GmbH Matter switch.
 
 This blueprint is for the <strong>INSTA Matter Push Button Module</strong> (https://www.insta.de/matter) that is also used by JUNG Group (https://www.jung-group.com/de-DE/Produkte/Loesungen/Matter-Taster/), SMATTEX (https://smattex.de/collections/schalter), Gira for their products.
