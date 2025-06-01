@@ -1,6 +1,6 @@
 blueprint:
   name: Insta Matter Push Button Module
-  description: "## Insta Matter Switch Tap Sequences\n\n 
+  description: "## Insta Matter Push Button Module\n\n 
     ###This blueprint is for the <strong>INSTA Matter Push Button Module</strong> (https://www.insta.de/matter) that is also used by JUNG Group (https://www.jung-group.com/de-DE/Produkte/Loesungen/Matter-Taster/), SMATTEX (https://smattex.de/collections/schalter), Gira for their products.\n
     It creates an automation to:\n\n  
     - Perform predefined actions when a button is tapped (1,2,3 times) or \n
